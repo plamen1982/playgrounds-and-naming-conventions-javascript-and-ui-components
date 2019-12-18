@@ -9,7 +9,7 @@
 		- tasksObjectivesNouns(objectivesNouns if need more of 
 		the times do not needed it)  - instead of arrays, more specific names with
 ## Functions - verbObjectivesNouns
-- Examples:
+- Examples function names:
 	- gettingObjectivesNouns- when we have return pure function that return object
 	- setsObjectivesNouns - when we have pure function that make some kind of 
 	- changing the input data and return this data
