@@ -10,10 +10,10 @@
 		the times do not needed it)  - instead of arrays, more specific names with
 ## Functions - verbObjectivesNouns
 - Examples:
-- gettingObjectivesNouns- when we have return pure function that return object
-- setsObjectivesNouns - when we have pure function that make some kind of 
-- changing the input data and return this data
-- fetchingObjectivesNouns - and then the name name of the data
-- calculatingObjectivesNouns
-- generatingObjectivesNouns
-- composingObjectivesNouns
+	- gettingObjectivesNouns- when we have return pure function that return object
+	- setsObjectivesNouns - when we have pure function that make some kind of 
+	- changing the input data and return this data
+	- fetchingObjectivesNouns - and then the name name of the data
+	- calculatingObjectivesNouns
+	- generatingObjectivesNouns
+	- composingObjectivesNouns
